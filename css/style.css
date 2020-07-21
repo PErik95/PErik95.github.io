@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Oswald";
+    src: url("fonts/Oswald/Oswald-Regular.ttf");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Oswald-light";
+    src: url("fonts/Oswald/Oswald-Light.ttf");
+    font-weight: 200;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100&display=swap');
+
+html {
+    background-color: rgba(209, 19, 136, 0.1)
+}
+
+h1 {
+    color: rgb(195, 22, 195);
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+    font-size:xx-large
+}
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+#bio-header {
+    color: brown;
+    font-size: x-large;
+}
+#skills-header {
+    color : red;
+    font-size : x-large
+}
+.content {
+    color: rgba(7, 62, 214, 0.911);
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: justify;
+    line-height: normal;
+    font-weight: lighter;
+    
+
+}
+.bold{
+    font-weight: bold;
+}
+.img-div{
+    background-color: rgba(121, 15, 121,0.7) ;
+}
+.light {
+    background-color: rgba(121, 15, 121,0.2);
+}
+img {
+    width: 14.5% ;
+    box-shadow : 3px 3px 7px black ; 
+    margin: 1% ;
+}
+
+#images-header {
+    color: rgb(13, 184, 190);
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+}
+
+#img-1a {
+    visibility: visible;
+}
+#Bilge {
+    margin-top: 25px;
+    margin-left:1080px;
+
+}
